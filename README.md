@@ -8,7 +8,7 @@ Crafting mobile experiences, one screen at a time.
 <p align="left">
 <a href="https://twitter.com/_joelkanyi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joelkanyi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joelkanyi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joelkanyi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/joelkanyi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="joelkanyi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10888323/joelkanyi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="joelkanyi" height="30" width="40" /></a>
 <a href="https://medium.com/joelkanyi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="joelkanyi" height="30" width="40" /></a>
 </p>
 
